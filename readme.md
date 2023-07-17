@@ -9,12 +9,12 @@ Function Plotter is a GUI application that allows users to plot mathematical fun
 - **Validation**: The application validates the user input to ensure its correctness.
 - **Error Handling**: Function Plotter displays meaningful error messages when the user input is invalid.
 
-Function Plotter GUI:
+**Function Plotter GUI**:
 
 ![Function Plotter GUI](imgs/i1.png)
 
 
-Function Plotter Error messages:
+**Function Plotter Error messages**:
 
 ![Function Plotter Error messages](imgs/i2.png)
 
