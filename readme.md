@@ -1,17 +1,21 @@
-# Function Plotter Documentation
+# Function Plotter
+
 ## Overview
 Function Plotter is a GUI application that allows users to plot mathematical functions. The application provides an interface for entering a function as well as the range of x values and generating the corresponding plot. The application was built using Python, PySide2 for the GUI, and Matplotlib for plotting. 
 
-##Features
+## Features
 - **User Interface**: The application provides a GUI where user can enter mathematical functions, set min and max values of x from the user.
 - **Function Evaluation**: The application evaluates the user-entered function and generates a corresponding plot using the Matplotlib library.
 - **Validation**: The application validates the user input to ensure its correctness.
 - **Error Handling**: Function Plotter displays meaningful error messages when the user input is invalid.
 
 Function Plotter GUI:
+
 ![Function Plotter GUI](imgs/i1.png)
 
+
 Function Plotter Error messages:
+
 ![Function Plotter Error messages](imgs/i2.png)
 
 ## Components
@@ -41,4 +45,4 @@ pytest test_function_plotter.py
 ```
 The tests will be executed, and the results will be displayed in the console.
 
-![result of automated tests](imgs/i2.png)
+![result of automated tests](imgs/i3.png)
